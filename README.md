@@ -28,9 +28,6 @@
   <img src="https://www.svgrepo.com/show/452210/git.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <div align="left">
 </div>
 
 
