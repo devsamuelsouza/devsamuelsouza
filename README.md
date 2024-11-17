@@ -40,12 +40,13 @@
 
 <h2>Contact 📬</h2>
 <div align="left">
-<a align="center" href="https://www.youtube.com/channel/UCvLSz9dC_VzHl2hpKuBYTKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25px" target="_blank"></a>
+<a align="center" href="https://www.linkedin.com/in/devsamuca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" target="_blank"></a> 
 <a align="center" href="https://discord.gg/jETY8m2n6g" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px" target="_blank"></a>
-<a align="center" href="https://www.instagram.com/samuca.io/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px" target="_blank"></a>
-<a align="center" href="https://x.com/samucaioo" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="25px"></a>
 <a align="center" href="https://www.twitch.tv/isamucaio"><img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" height="25px" target="_blank"></a>
-<a align="center" href="https://www.linkedin.com/in/devsamuca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" target="_blank"></a>   
+ <br>
+<a align="center" href="https://www.youtube.com/channel/UCvLSz9dC_VzHl2hpKuBYTKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25px" target="_blank"></a>
+<a align="center" href="https://www.instagram.com/samuca.io/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px" target="_blank"></a>
+<a align="center" href="https://open.spotify.com/user/31vw57cbppfuqfi2mgy3fjgr53eu?si=4760323394bb48a4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" height="25px" target="_blank" >
 </div>
 
 <img src="https://github.com/devsamuca/devsamuca/blob/output/github-contribution-grid-snake-dark.svg">
