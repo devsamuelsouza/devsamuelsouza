@@ -8,13 +8,12 @@
  <br>
   💼 - I work as a Service Desk at <a href="https://www.iscal.com.br/">Iscal.</a>
   
-  
 </div>
 
-
-<h2>Languages and Tools 🛠 </h2>
+<h2>Languages ​​and Tools 🛠 </h2>
 
 <div align="left">
+
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="30" alt="python logo"  />
@@ -25,11 +24,31 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/349330/css3.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/452210/git.svg" height="30" alt="git logo"  />
+  <img src="https://www.svgrepo.com/show/452210/git.svg" height="32" alt="git logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="30" alt="git logo"  />
+
 </div>
 
+<h2>Frameworks and Technologies 🔭 </h2>
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src=".github/icons/flask.png" width="32" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+
+###
+
+</div>
 
 <h2>GitHub Stats 🏅</h2>
 
@@ -39,6 +58,7 @@
 </div>
 
 <h2>Contact 📬</h2>
+
 <div align="left">
 <a align="center" href="https://www.linkedin.com/in/devsamuca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" target="_blank"></a> 
 <a align="center" href="https://discord.gg/jETY8m2n6g" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px" target="_blank"></a>
@@ -47,6 +67,7 @@
 <a align="center" href="https://www.youtube.com/channel/UCvLSz9dC_VzHl2hpKuBYTKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25px" target="_blank"></a>
 <a align="center" href="https://www.instagram.com/samuca.io/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px" target="_blank"></a>
 <a align="center" href="https://open.spotify.com/user/31vw57cbppfuqfi2mgy3fjgr53eu?si=4760323394bb48a4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" height="25px" target="_blank" >
+
 </div>
 
 <img src="https://github.com/devsamuca/devsamuca/blob/output/github-contribution-grid-snake-dark.svg">
