@@ -16,8 +16,6 @@
 
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="./.github/icons/ts.png " height="30" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" height="30" alt="java logo"  />
@@ -34,8 +32,6 @@
 
 <div align="left">
 
-<img src="https://img.icons8.com/color/512/tailwindcss.png" height="30" alt="tailwindcss logo"  /> 
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src=".github/icons/flask.png" width="32" />
@@ -52,10 +48,10 @@
 
 <div>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="30" alt="
   mysql"  />
-  <img width="12" />
-  <img src="./.github/icons/oracle.png" height="25" alt="oracle logo"  />
 
 </div>
 
