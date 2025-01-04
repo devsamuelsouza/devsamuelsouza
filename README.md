@@ -41,6 +41,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src=".github/icons/express.png" height="30" alt="npm logo"  />
+
 
 </div>
 
@@ -52,6 +55,9 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="30" alt="
   mysql"  />
+  <img width="12" />
+  <img src=".github/icons/oracle.png" height="30" alt="
+  oracle"  />
 
 </div>
 
