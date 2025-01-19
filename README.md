@@ -33,14 +33,22 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452210/git.svg" height="32" alt="git logo"  /> 
+  <img src="https://img.icons8.com/fluent/512/docker.png" height="30" alt="docker logo"  /> 
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="30" alt="
   mysql"  />
+    <img width="12" />
+  <img src="https://www.svgrepo.com/show/452210/git.svg" height="30" alt="git logo"  />
+</div>
+
+<h2>Operating Systems 🐧 </h2>
+
+<div align="left">
+  <img src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png" height="30" alt="windows logo"  />
 </div>
 
 <h2>GitHub Stats 🏅</h2>
