@@ -13,7 +13,6 @@
 <h2>Languages and Technologies🛠 </h2>
 
 <div align="left">
-
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="30" alt="python logo"  />
@@ -34,8 +33,7 @@
 <h2>Tools and Databases 🔭 </h2>
 
 <div align="left">
-  <img width="12" />
-  <img src="https://img.icons8.com/fluent/512/docker.png" height="30" alt="docker logo"  /> 
+  <img src="https://img.icons8.com/fluent/512/docker.png" height="32" alt="docker logo"  /> 
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
