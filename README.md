@@ -10,7 +10,7 @@
   
 </div>
 
-<h2>Languages ​​and Tools 🛠 </h2>
+<h2>Languages and Technologies🛠 </h2>
 
 <div align="left">
 
@@ -22,41 +22,25 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/349330/css3.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/452210/git.svg" height="32" alt="git logo"  />
-
-</div>
-
-<h2>Frameworks and Technologies 🔭 </h2>
-
-<div align="left">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src=".github/icons/flask.png" width="32" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src=".github/icons/express.png" height="30" alt="npm logo"  />
-
-
 </div>
 
-<h2>DataBases 🎲 </h2>
+<h2>Tools and Databases 🔭 </h2>
 
-<div>
-
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452210/git.svg" height="32" alt="git logo"  /> 
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="30" alt="
   mysql"  />
-  <img width="12" />
-  <img src=".github/icons/oracle.png" height="30" alt="
-  oracle"  />
-
 </div>
 
 <h2>GitHub Stats 🏅</h2>
@@ -69,7 +53,7 @@
 <h2>Contact 📬</h2>
 
 <div align="left">
-<a align="center" href="https://www.linkedin.com/in/devsamuca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" target="_blank"></a> 
+<a align="center" href="https://www.linkedin.com/in/devsamuelsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" target="_blank"></a> 
 <a align="center" href="https://discord.gg/jETY8m2n6g" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px" target="_blank"></a>
 <a align="center" href="https://www.twitch.tv/isamucaio"><img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" height="25px" target="_blank"></a>
  <br>
