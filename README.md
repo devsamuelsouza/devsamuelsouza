@@ -26,6 +26,8 @@
   <img src=".github/icons/flask.png" width="32" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 <h2>Tools and Databases 🔭 </h2>
@@ -39,6 +41,10 @@
   mysql"  />
     <img width="12" />
   <img src="https://www.svgrepo.com/show/452210/git.svg" height="30" alt="git logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
 </div>
 
 <h2>Operating Systems 🐧 </h2>
