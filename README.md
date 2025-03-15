@@ -17,6 +17,8 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="33" alt="csharp logo"  />
+   <img width="12" />
   <img src="https://www.svgrepo.com/show/349402/html5.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/349330/css3.svg" height="30" alt="css3 logo"  />
