@@ -41,8 +41,6 @@
   mysql"  />
     <img width="12" />
   <img src="https://www.svgrepo.com/show/452210/git.svg" height="30" alt="git logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
 </div>
 
 <h2>Operating Systems 🐧 </h2>
