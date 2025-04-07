@@ -33,14 +33,12 @@
 <h2>Ferramentas e Bancos de dados 🔭 </h2>
 
 <div align="left">
-  <img src="https://img.icons8.com/fluent/512/docker.png" height="32" alt="docker logo"  /> 
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="30" alt="
-  mysql"  />
-    <img width="12" />
   <img src="https://www.svgrepo.com/show/452210/git.svg" height="30" alt="git logo"  />
+      <img width="12" />
+  <img src="https://img.icons8.com/fluent/512/docker.png" height="32" alt="docker logo"  /> 
+    <img width="12" />
+   <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="30" alt="
+  mysql"  />
 </div>
 
 <h2>Sistemas Operacionais 🐧 </h2>
