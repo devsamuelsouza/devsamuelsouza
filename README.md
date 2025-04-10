@@ -3,7 +3,7 @@
 
 <div align="left">
  
-  👦 - Tenho 20 anos e sou um estudante de tecnologia com foco em segurança cibernética. <br>
+  👦 - Tenho 20 anos e sou um estudante de tecnologia focado em segurança cibernética. <br>
   🎓 - Atualmente estou cursando Engenharia de Software na <a href="https://unifil.br/" style="text-decoration: none;">Universidade Filadelfia</a>
  <br>
   💼 - Estou trabalhando como Analista de Suporte na <a href="https://www.iscal.com.br/">Iscal.</a>
@@ -13,25 +13,26 @@
 <h2>Linguagens e Tecnologias 🛠 </h2>
 
 <div align="left">
+<img src="https://www.svgrepo.com/show/349402/html5.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+   <img src="https://www.svgrepo.com/show/349330/css3.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="33" alt="csharp logo"  />
    <img width="12" />
-  <img src="https://www.svgrepo.com/show/349402/html5.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/349330/css3.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src=".github/icons/flask.png" width="32" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /> 
  <img width="12" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+   <img width="12" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /> 
 </div>
 
 <h2>Sistemas Operacionais 🐧 </h2>
