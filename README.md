@@ -4,7 +4,7 @@
 <div align="left">
  
   👦 - Tenho 20 anos e sou um estudante de tecnologia com foco em segurança cibernética. <br>
-  🎓 - Atualmente estou estudando Engenharia de Software na <a href="https://unifil.br/" style="text-decoration: none;">Universidade Filadelfia</a>
+  🎓 - Atualmente estou cursando Engenharia de Software na <a href="https://unifil.br/" style="text-decoration: none;">Universidade Filadelfia</a>
  <br>
   💼 - Estou trabalhando como Analista de Suporte na <a href="https://www.iscal.com.br/">Iscal.</a>
   
