@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/452091/python.svg" height="30" alt="python logo"  />
+  <img src="https://www.svgrepo.com/show/452091/python.svg" height="32" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="33" alt="csharp logo"  />
    <img width="12" />
@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
  <img width="12" /> 
+  <img src=".github/icons/nodemon.svg" height="32" alt="nodemon"  />
+  <img width="12" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
    <img width="12" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /> 
