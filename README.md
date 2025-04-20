@@ -33,8 +33,6 @@
   <img src=".github/icons/nodemon.svg" height="32" alt="nodemon"  />
   <img width="12" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-   <img width="12" /> 
- <img src=".github/icons/docker.png" height="40" alt="docker logo"  /> 
 </div>
 
 <h2>Sistemas Operacionais 🐧 </h2>
