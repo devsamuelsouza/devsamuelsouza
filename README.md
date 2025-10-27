@@ -2,8 +2,8 @@
 <h2 align="left">Olá, meu nome é <a href="https://beacons.ai/iosamuca">Samuel Souza</a> 👋</h2>
 
 <div align="left">
- 
-  - Tenho 20 anos e sou um estudante de engenharia de software e cibersegurança. <br>
+ <strong>Desenvolvedor Full Stack</strong>
+<br>
   
 </div>
 
@@ -27,7 +27,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" height="30" alt="asp.net">
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="35" alt="nuget logo"  />
-
+<img width="12" />
+<img src="https://blazeofcode.wordpress.com/wp-content/uploads/2019/04/brandblazor_nohalo_1000x-1.png" height="32" alt="razor"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 <h2>Bancos de Dados 🎲</h2>
@@ -63,7 +66,7 @@
 <a align="center" href="https://www.linkedin.com/in/devsamuelsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" target="_blank"></a> 
 <a align="center" href="https://discord.gg/jETY8m2n6g" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px" target="_blank"></a>
 <a align="center" href="https://www.twitch.tv/isamucaio"><img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" height="25px" target="_blank"></a>
- <br>
+<br>
 <a align="center" href="https://www.youtube.com/channel/UCvLSz9dC_VzHl2hpKuBYTKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25px" target="_blank"></a>
 <a align="center" href="https://www.instagram.com/samuca.io/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px" target="_blank"></a>
 <a align="center" href="https://open.spotify.com/user/31vw57cbppfuqfi2mgy3fjgr53eu?si=4760323394bb48a4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" height="25px" target="_blank" >
