@@ -14,15 +14,20 @@
 <img width="12" />
 <img src="https://www.svgrepo.com/show/349330/css3.svg" height="30" alt="css3 logo"  />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+<img width="12" />
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="30" alt="javascript logo"  />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="31" alt="typescript logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="30" alt="typescript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="csharp logo"  />
 <img width="12" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" height="30" alt="asp.net">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" height="30" alt="asp.net">
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="35" alt="nuget logo"  />
+
 </div>
 
 <h2>Bancos de Dados 🎲</h2>
